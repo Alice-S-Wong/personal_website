@@ -13,41 +13,29 @@
 
             <!-- Content -->
               <section id="content" class="main">
-                <span class="image main"><img src="images/pic04.jpg" alt="" /></span>
-                <h2>Magna feugiat lorem</h2>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis fames ac ante ipsum primis in faucibus.</p>
-                <p>Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Consequat leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit enim turpis lorem ipsum dolor sit amet feugiat. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet est velit quis lorem.</p>
-                <h2>Tempus veroeros</h2>
-                <p>Cep risus aliquam gravida cep ut lacus amet. Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae ante vestibulum ante. Blandit. Ante accumsan nisi eu placerat gravida placerat adipiscing in risus fusce vitae ac mi accumsan nunc in accumsan tempor blandit aliquet aliquet lobortis. Ultricies blandit lobortis praesent turpis. Adipiscing accumsan adipiscing adipiscing ac lacinia cep. Orci blandit a iaculis adipiscing ac. Vivamus ornare laoreet odio vis praesent nunc lorem mi. Erat. Tempus sem faucibus ac id. Vis in blandit. Nascetur ultricies blandit ac. Arcu aliquam. Accumsan mi eget adipiscing nulla. Non vestibulum ac interdum condimentum semper commodo massa arcu.</p>
+                <!-- <span class="image main"><img src="images/pic04.jpg" alt="" /></span> -->
+                <h2>My Tech Stack</h2>
+                <p>HTML, CSS, JavaScript, Vue.js, Ruby, Rails, Python, Django, SQL</p>
+                <h2>My Current Projects</h2>
+                <p>My current project is learning more about Python and Django and building my first Django app. I hope to learn PHP and Laravel in the future, and also Java and C.</p>
+                <p>I am working on several collaborative projects with fellow developers currently as well. These include some smaller projects in Python, and an app to help people find public restrooms in various cities, with ratings so people know the quality of the restroom before choosing to use it.</p>
+                <h2>Mischief Writings</h2>
+                <p>A blog app for a client who is a writer so they can post their stories in chapters and have visitors leave comments. This project involves Rails and SQL for the backend, and Vue.js for the frontend. This project involves admin authentication and admin-only tools for managing the site so the client can upload, edit, and delete stories and story chapters, and also manage and delete comments they do not want. This is to allow for the client to manage the site with minimal need for me, the developer to manage the site on thier behalf.</p>
+                <h2>Dragon Gamer</h2>
+                <p>I created this app as a place for gamers to express their game preferences, see other gamers' game preferences, and to access information and statistics on video games. Users can view games or search for games, and view information on them. Users can create lists of games they've played, games they want to play, and favorite games. Users can view others' lists if set to public. Users can also review games. I also created statistical calculators for fans of the Pokemon and Fire Emblem series as an add-on for the app. The app was built in Rails with an SQL database for the backend and Vue.js for the frontend. It relies on two external APIs, IGDB for video game data, and PokeAPI for Pokemon data.</p>
+                <ul class="actions">
+                  <li><a href="/" class="button">Return to Main Page</a></li>
+                </ul>
               </section>
-
           </div>
 
         <!-- Footer -->
           <footer id="footer">
             <section>
-              <h2>Aliquam sed mauris</h2>
-              <p>Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio.</p>
-              <ul class="actions">
-                <li><a href="#" class="button">Learn More</a></li>
-              </ul>
-            </section>
-            <section>
-              <h2>Etiam feugiat</h2>
-              <dl class="alt">
-                <dt>Address</dt>
-                <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
-                <dt>Phone</dt>
-                <dd>(000) 000-0000 x 0000</dd>
-                <dt>Email</dt>
-                <dd><a href="#">information@untitled.tld</a></dd>
-              </dl>
+              <h2>Useful Links</h2>
               <ul class="icons">
-                <li><a href="#" class="icon brands fa-twitter alt"><span class="label">Twitter</span></a></li>
-                <li><a href="#" class="icon brands fa-facebook-f alt"><span class="label">Facebook</span></a></li>
-                <li><a href="#" class="icon brands fa-instagram alt"><span class="label">Instagram</span></a></li>
-                <li><a href="#" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
-                <li><a href="#" class="icon brands fa-dribbble alt"><span class="label">Dribbble</span></a></li>
+                <li><a href="https://github.com/Alice-S-Wong" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
+                <li><a href="https://www.linkedin.com/in/alice-s-wong/" class="icon brands fa-linkedin alt"><span class="label">Linkedin</span></a></li>
               </ul>
             </section>
             <p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
