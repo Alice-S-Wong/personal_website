@@ -21,8 +21,17 @@
                 <p>I am working on several collaborative projects with fellow developers currently as well. These include some smaller projects in Python, and an app to help people find public restrooms in various cities, with ratings so people know the quality of the restroom before choosing to use it.</p>
                 <h2>Mischief Writings</h2>
                 <p>A blog app for a client who is a writer so they can post their stories in chapters and have visitors leave comments. This project involves Rails and SQL for the backend, and Vue.js for the frontend. This project involves admin authentication and admin-only tools for managing the site so the client can upload, edit, and delete stories and story chapters, and also manage and delete comments they do not want. This is to allow for the client to manage the site with minimal need for me, the developer to manage the site on thier behalf.</p>
+                <ul class="actions">
+                  <li><a href="https://mischief-writings.herokuapp.com/" class="button">Link to Site</a></li>
+                </ul>
                 <h2>Dragon Gamer</h2>
                 <p>I created this app as a place for gamers to express their game preferences, see other gamers' game preferences, and to access information and statistics on video games. Users can view games or search for games, and view information on them. Users can create lists of games they've played, games they want to play, and favorite games. Users can view others' lists if set to public. Users can also review games. I also created statistical calculators for fans of the Pokemon and Fire Emblem series as an add-on for the app. The app was built in Rails with an SQL database for the backend and Vue.js for the frontend. It relies on two external APIs, IGDB for video game data, and PokeAPI for Pokemon data.</p>
+                <p>Links to various features from Dragon Gamer</p>
+                <ul class="actions">
+                  <li><a href="/fe_stat_calculator" class="button">Fire Emblem Stat Calculator</a></li>
+                  <li><a href="/fe_stat_simulator" class="button">Fire Emblem Stat Simulator</a></li>
+                  <li><a href="/iv_calculator" class="button">Pokemon IV Calculator</a></li>
+                </ul>
                 <ul class="actions">
                   <li><a href="/" class="button">Return to Main Page</a></li>
                 </ul>

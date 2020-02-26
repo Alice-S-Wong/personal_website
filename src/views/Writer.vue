@@ -24,7 +24,7 @@
                   <li>Magi-technology/Magitek: This term refers to magic that has been studied and refined into a science and used to power technology. An example would be a gun that shoots fire magic instead of bullets. I am fond of the intersections between magic and technology and how they would mesh in a world where magic actually exists.</li>
                   <li>Airships: If there was something I liked as much a dragons, it's probably airships. Dirigibles, flying age-of-sail ships, wooden ships held aloft by balloons, futuristic airplane-like ships, I love them all. They have a habit of showing up in the strangest places.</li>
                 </ul>
-                <h2>Meet My Characters</h2>
+                <!-- <h2>Meet My Characters</h2>
                 <ul>
                   <li>Minerva Ignatius: The protagonist of my Endless Blue series. She is the adpoted daughter of a blacksmith who loves mechanical things and has an interest in the art of magic, which is forbidden in her world by the church. She is highly intelligent, if somewhat naive and overly trusting. She has red hair and grey eyes, and though short of stature, hates being mistaken for a child.</li>
                   <li>Sara Aureolus: A priestess of the church in the Endless Blue series. She is the kind who likes to uphold rules and do things by the book. She appears to be fourteen but sometimes acts far more mature for some reason. She can control water, thanks to powers granted to her by God himself.</li>
@@ -35,7 +35,7 @@
                   <li>Emily Ashton: A university mechanical engineering student from Star-Crossed. She is serious and a little boring according to her friend Olivia. She is the type who does nothing but study and is definitely the honor student type. Her life is turned upisde down when an alien crash lands into her life.</li>
                   <li>Astraea: An alien from a distant world in Star-Crossed. She comes from a race of militaristic expansionist aliens but wants nothing to do with that and flees her planet, ending up on Earth. After a mishap in the park, she intervenes to save Emily's life, changing Emily's life forever.</li>
                   <li>Olivia: Emily's best friend from Star-Crossed. She is a stark contrast to Emily, being a devout womanizer who is always flirting with the other girls. She loves having fun and doesn't take school that seriously. She may be dealing with inner demons.</li>
-                </ul>
+                </ul> -->
                 <h2>My Stories</h2>
                 <ul>
                   <li>Endless Blue: In a world where magic exists but has been outlawed by the church on penalty of death, Minerva Ignatius, the daughter of a blacksmith lives a peaceful and uneventful life. However, with the sudden destruction of her hometown by mercenaries, something she believes is her fault, she must strike out on a journey of atonement. Along the way she meets allies like the white-haired church priestess Sara, and witty mage-thief Lena, all while hiding the fact that she can use magic. This series spans four books and is currently in the editing stage.</li>

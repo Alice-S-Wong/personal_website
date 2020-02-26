@@ -4,7 +4,7 @@
 
         <!-- Header -->
           <header id="header" class="alt">
-            <span class="logo"><img src="images/logo.svg" alt="" /></span>
+            <!-- <span class="logo"><img src="images/logo.svg" alt="" /></span> -->
             <h1>Alice Wong</h1>
             <p>Developer | Writer | Cosplayer</p>
           </header>
@@ -78,7 +78,7 @@
                   </header>
                   <p>I've always liked the idea of dressing up as someone else, and I think my love of cosplay comes from not being able to dress up as much as I wanted to as a kid. Cosplay involves dressing up as a character, either from some form of media (games, anime, shows, movies, books) or an original character from the cosplayer's own imagination. Some cosplayers, myself included make our own costumes, which requires skill in sewing, patterning, and crafting props and armor among other things. It is an enjoyable hobby that lets me socialize with likeminded fans of series I like and to show off my handiwork.</p>
                   <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn More</a></li>
+                    <li><a href="/cosplayer" class="button">Learn More</a></li>
                   </ul>
                 </div>
                 <!-- <span class="image"><img src="images/Self photo.jpg" alt="" /></span> -->
