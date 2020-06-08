@@ -7,6 +7,7 @@ import Cosplayer from '../views/Cosplayer.vue';
 import IVCalculator from '../views/IVCalculator.vue';
 import FEStatCalculator from '../views/FEStatCalculator.vue';
 import FEStatSimulator from '../views/FEStatSimulator.vue';
+import DiceRoller from '../views/DiceRoller.vue';
 
 Vue.use(VueRouter)
 
@@ -45,6 +46,11 @@ const routes = [
     path: '/fe_stat_simulator',
     name: 'fe_stat_simulator',
     component: FEStatSimulator
+  },
+  {
+    path: '/dice_roller',
+    name: 'dice_roller',
+    component: DiceRoller
   },
   {
     path: '/about',
